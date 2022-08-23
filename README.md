@@ -1,5 +1,5 @@
 - 👋 **Hi there! Welcome to my Github Profile!**
-- I am Chloe and I am passionate about Data Analytics and Business Analysis, I have 2+ years of analytics-related experience with a master’s degree in engineering in Western University.
+- I am Chloe and I am passionate about Data Analytics and Business Analysis, I have around 3 years of analytics-related experience with a master’s degree in engineering in Western University.
 - Check out my Portfolio for all of my projects, skills, certificates, and achievements.
 
 <!---
